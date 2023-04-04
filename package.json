@@ -34,7 +34,7 @@
     "lodash": "3.10.1",
     "machinepack-urls": "^3.1.1",
     "semver": "^4.3.4",
-    "socket.io": "git+https://github.com/ryd0rz/socket.io.git#main",
+    "socket.io": "4.6.1",
     "uid2": "0.0.3"
   },
   "deprecated": false,
